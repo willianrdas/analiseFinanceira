@@ -53,5 +53,5 @@ O dashboard contém um slicer interativo com filtro mensal, o que permite análi
 
 # Exemplo do Dashboard
 
-<img width="1420" height="727" alt="Captura_de_tela_2026-04-30_125417" src="https://github.com/user-attachments/assets/1e92532a-9dc5-41d0-8e96-1ac77bc0c8ab" />
+<img width="1162" height="576" alt="image" src="https://github.com/user-attachments/assets/41ec921b-b66b-4e67-bf99-05da987dd9bd" />
 
