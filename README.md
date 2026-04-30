@@ -22,7 +22,7 @@ Base de dados baseada em: https://www.kaggle.com/datasets/entrepreneurlife/perso
 - Segmentação de dados (slicers)
 - Fórmulas para cálculo de estatísticas chave
 
-## Dashboard
+## Estrutura do Dashboard
 
 O dashboard consiste de:
 
@@ -46,11 +46,10 @@ O dashboard consiste de:
 
 ### Análise Interativa
 
-O dashboard contém um slicer interativo com filtro mensal, o que permite análises dinâmicas por período específico, o que permite:
+O dashboard contém um slicer interativo com filtro mensal, o que permite análises dinâmicas por período específico, como:
 
 - Comparar diferentes meses
-- Identificar mudanças no padrão de consumo
-- Avaliar variações no saldo ao longo do tempo
+- Identificar mudanças no padrão de consumo (ex. identificar gastos maiores eed determinadas categorias em certos meses)
 
 # Exemplo do Dashboard
 
