@@ -8,7 +8,7 @@ O objetivo é transformar dados de gastos do dia-a-dia em informações claras, 
 
 Download da planilha: [Clique Aqui](https://github.com/willianrdas/analiseFinanceira/raw/refs/heads/main/Controle%20Financeiro.xlsx)
 
-# Exemplo do Dashboard
+## Exemplo do Dashboard
 
 <img width="1162" height="576" alt="image" src="https://github.com/user-attachments/assets/41ec921b-b66b-4e67-bf99-05da987dd9bd" />
 
@@ -55,14 +55,14 @@ O dashboard contém um slicer interativo com filtro mensal, o que permite análi
 - Comparar diferentes meses
 - Identificar mudanças no padrão de consumo ((ex: aumento de gastos em categorias específicas))
 
-# Principais descobertas
+## Principais descobertas
 
 - A taxa de poupança se mantém consistente, com aproximadamente 40% à 50% da renda mensal, indicando um nível saudável de controle financeiro e renda mensal preservada.
 - No segundo quadrimestre do ano, observa-se um padrão sazonal de gastos com reformas na casa, chegando a ultrapassar 250% da renda mensal. Esse comportamento sugere eventos pontuais de alto impacto financeiro. A criação de uma reserva específica para esse tipo de manutenção somada a um planejamento preventivo podem diminuir consideravelmente a necessidade de gastos emergenciais elevados.
 - Os gastos anuais estão concentrados principalmente em alimentação, aluguel e reformas, sendo que reformas apresentam impacto financeiro comparável às despesas recorrentes. Isso indica que, apesar de não recorrente mensalmente, essa categoria exerce forte pressão no orçamento anual.
 - O uso de cartão de crédito permanece controlado, com valores consistentemente inferiores aos gastos em débito, sugerindo baixo risco de endividamento e bom gerenciamento de crédito
 
-# Fonte de Dados
+## Fonte de Dados
 
 Dataset utilizado: Personal Finance Dataset  
 Fonte: Kaggle  
