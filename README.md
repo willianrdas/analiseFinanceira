@@ -6,7 +6,7 @@ Esse projeto consiste em um dashboard desenvolvido em Excel para monitoramento f
 
 O objetivo é transformar dados de gastos do dia-a-dia em informações claras, como identificações de gastos extremos e aumentos de gastos sazonais, contribuindo com um melhor controle financeiro.
 
-Base de dados inspirada em: https://www.kaggle.com/datasets/entrepreneurlife/personal-finance
+Download da planilha: [Clique Aqui](https://github.com/willianrdas/analiseFinanceira/raw/refs/heads/main/Controle%20Financeiro.xlsx)
 
 # Exemplo do Dashboard
 
@@ -61,3 +61,9 @@ O dashboard contém um slicer interativo com filtro mensal, o que permite análi
 - No segundo quadrimestre do ano, observa-se um padrão sazonal de gastos com reformas na casa, chegando a ultrapassar 250% da renda mensal. Esse comportamento sugere eventos pontuais de alto impacto financeiro. A criação de uma reserva específica para esse tipo de manutenção somada a um planejamento preventivo podem diminuir consideravelmente a necessidade de gastos emergenciais elevados.
 - Os gastos anuais estão concentrados principalmente em alimentação, aluguel e reformas, sendo que reformas apresentam impacto financeiro comparável às despesas recorrentes. Isso indica que, apesar de não recorrente mensalmente, essa categoria exerce forte pressão no orçamento anual.
 - O uso de cartão de crédito permanece controlado, com valores consistentemente inferiores aos gastos em débito, sugerindo baixo risco de endividamento e bom gerenciamento de crédito
+
+# Fonte de Dados
+
+Dataset utilizado: Personal Finance Dataset  
+Fonte: Kaggle  
+Link: https://www.kaggle.com/datasets/entrepreneurlife/personal-finance
