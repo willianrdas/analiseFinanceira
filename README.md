@@ -8,6 +8,10 @@ O objetivo é transformar dados de gastos do dia-a-dia em informações claras, 
 
 Base de dados inspirada em: https://www.kaggle.com/datasets/entrepreneurlife/personal-finance
 
+# Exemplo do Dashboard
+
+<img width="1162" height="576" alt="image" src="https://github.com/user-attachments/assets/41ec921b-b66b-4e67-bf99-05da987dd9bd" />
+
 ## Objetivo
 
 - Acompanhar receitas e despesas mensais
@@ -50,10 +54,6 @@ O dashboard contém um slicer interativo com filtro mensal, o que permite análi
 
 - Comparar diferentes meses
 - Identificar mudanças no padrão de consumo ((ex: aumento de gastos em categorias específicas))
-
-# Exemplo do Dashboard
-
-<img width="1162" height="576" alt="image" src="https://github.com/user-attachments/assets/41ec921b-b66b-4e67-bf99-05da987dd9bd" />
 
 # Principais descobertas
 
