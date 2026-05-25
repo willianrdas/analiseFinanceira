@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esse projeto consiste em um dashboard desenvolvido em Excel para monitoramento financeiro pessoal, com foco em análise de entradas, gastos e comportomento de consumo ao longo do tempo.
+Esse projeto consiste em um dashboard desenvolvido em Excel para monitoramento financeiro pessoal, com foco em análise de entradas, gastos e comportamento de consumo ao longo do tempo.
 
 O objetivo é transformar dados de gastos do dia-a-dia em informações claras, como identificações de gastos extremos e aumentos de gastos sazonais, contribuindo com um melhor controle financeiro.
 
@@ -53,7 +53,7 @@ O dashboard é composto por:
 O dashboard contém um slicer interativo com filtro mensal, o que permite análises dinâmicas por período específico, como:
 
 - Comparar diferentes meses
-- Identificar mudanças no padrão de consumo ((ex: aumento de gastos em categorias específicas))
+- Identificar mudanças no padrão de consumo (ex: aumento de gastos em categorias específicas)
 
 ## Principais descobertas
 
